@@ -1,6 +1,6 @@
 # Aim Training
 
-## Simple JS App - [Demo](https://mve-color-board-js.vercel.app/)
+## Simple JS App - [Demo](https://mve-aim-training-js.vercel.app/)
 
 ### App Aim Training
 
